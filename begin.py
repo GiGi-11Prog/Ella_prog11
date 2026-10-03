@@ -1,4 +1,4 @@
-print("Hey Gigi")
+print("hey,Gigi")
 # Introduction
 #Day 1 - 30 Days of Python Challenge
 # #Introducing operations
