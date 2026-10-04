@@ -24,6 +24,6 @@ print("copyright")
 print(min(20,30,40,50))#gives minimun value
 print(max(20,30,40,50))#gives maximum value
 print(sum([20,30,40,40]))
-print(sum(20,30))
 # key points
-#sum[]if it is a list
+#sum[]
+#next lesson Variable continuation of Day 2
